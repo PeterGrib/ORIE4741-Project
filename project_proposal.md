@@ -7,7 +7,7 @@
 
 **Question**
 
-The purpose of our project is to answer the following question: **Can we forecast the energy consumption for a building based on key, basic inputs?**
+The purpose of our project is to answer the following question: *Can we forecast the energy consumption for a building based on key, basic inputs?*
 
 **Dataset**
 
